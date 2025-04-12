@@ -13,7 +13,7 @@ We’re entering a new era where **AI can turn text into stunning visuals** in s
 
 ---
 
-Demo : https://aivisuals.vercel.app/ || https://github.com/lokeshagarwal2304/AI-Visual/
+Demo : https://aivisuals.vercel.app/ || https://lokeshagarwal2304.github.io/AI-Visual/
 
 ---
 
