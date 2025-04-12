@@ -3,12 +3,16 @@
 We’re entering a new era where **AI can turn text into stunning visuals** in seconds. As a developer, I’ve always admired the fusion of tech and creativity – but what we’re witnessing today with tools like **Midjourney, DALL·E 3, and Stable Diffusion** is truly game-changing.
 
 ---
+![image](https://github.com/user-attachments/assets/33643cdd-ea38-4497-9b66-6652084f0613)
+
+---
 
 ## 📌 What Are AI Visuals?
 > **AI Visuals** are images generated or enhanced using artificial intelligence. These tools transform simple inputs like text prompts into high-quality, creative visuals using deep learning models.
 
 ---
-
+Demo : https://aivisuals.vercel.app/ || https://github.com/lokeshagarwal2304/AI-Visual/deployments/github-pages
+---
 ## 🚀 Use Cases by Industry
 
 | Industry | Who Uses It | Use Case |
