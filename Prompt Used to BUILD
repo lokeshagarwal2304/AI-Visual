@@ -1,0 +1,53 @@
+Build a complete full-stack MERN project named "AI Visuals Hub". The application should be split into two directories: /client for the frontend (React + Tailwind CSS) and /server for the backend (Node.js + Express + MongoDB). This app allows users to input text prompts and generate AI visuals.
+
+🔍 Core Features:
+Prompt-to-Image Generator: Users can input text and get an AI-generated image (use a mock API or real service like DALL·E if available).
+
+Image Gallery: Display generated images in a responsive card grid with the prompt text.
+
+Save Image: Allow users to save favorite visuals to a collection.
+
+Delete Image: Enable users to remove saved visuals.
+
+Virtual AI Chatbot: Add a simple chatbot (bottom-right floating chat bubble) that helps users generate better prompts, explains AI visual tools, or answers FAQs. It can use OpenAI’s GPT or a basic rule-based response system.
+
+User-friendly Notifications: Use toasts/snackbars for success/error prompts.
+
+Search Bar: Allow users to filter images by keywords/prompts.
+
+🎨 Styling Requirements:
+Use Tailwind CSS for clean and responsive design.
+
+Add dark/light mode toggle.
+
+Use glassmorphism or neumorphism effect cards for images.
+
+Animate components using Framer Motion for smooth transitions.
+
+Display prompts using nice typography (e.g., font-serif, text-xl).
+
+Use a fixed-width layout with grid/flex responsiveness.
+
+Chatbot should have a soft animated UI with typing indicator and emoji support.
+
+🛠️ Backend API Endpoints:
+POST /api/generate: Generate an image from a prompt (use mock or actual AI API)
+
+POST /api/save: Save image info (URL, prompt, timestamp)
+
+GET /api/images: Fetch all saved images
+
+DELETE /api/image/:id: Delete specific image by ID
+
+🧠 Database Schema (MongoDB with Mongoose):
+Prompt: String
+
+Image URL: String
+
+CreatedAt: Date
+
+User (optional): For multi-user support
+
+The project must be responsive on all devices, modularly coded, and well-documented for future scaling. Optional: Add authentication later using JWT for personal image collections.
+
+Notes:The whole prompt is written by @lokeshagarwal2304,with a mutual support of @gayatri192005,(without any specifying bots and gpts).
