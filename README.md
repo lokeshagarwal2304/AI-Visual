@@ -83,7 +83,7 @@ Contributions are welcome! Fork the repository and submit pull requests.
 MIT License.
 
 📧 Contact
-For questions or contributions, connect via GitHub:  [lokeshagarwal2304](https://github.com/lokeshagarwal2304),[bhoomi155](https://github.com/bhoomi155),[Thanvicham30](https://github.com/Thanvicham30
+For questions or contributions, connect via GitHub:  [lokeshagarwal2304](https://github.com/lokeshagarwal2304),[bhoomi155](https://github.com/bhoomi155),[Hetz11](https://github.com/Hetz11),[Thanvicham30](https://github.com/Thanvicham30
 ).
 
 > ⚡ Let's not just consume AI visuals — **let’s build with them.**
